@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace ProducvitityTools.Learn.Auth0.WpfApp
+namespace ProductivityTools.Learn.Auth0.WpfApp
 {
     /// <summary>
     /// Interaction logic for App.xaml

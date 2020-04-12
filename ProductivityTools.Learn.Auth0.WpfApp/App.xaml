@@ -1,7 +1,7 @@
-﻿<Application x:Class="ProducvitityTools.Learn.Auth0.WpfApp.App"
+﻿<Application x:Class="ProductivityTools.Learn.Auth0.WpfApp.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:ProducvitityTools.Learn.Auth0.WpfApp"
+             xmlns:local="clr-namespace:ProductivityTools.Learn.Auth0.WpfApp"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

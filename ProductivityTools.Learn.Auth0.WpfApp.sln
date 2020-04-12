@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducvitityTools.Learn.Auth0.WpfApp", "ProducvitityTools.Learn.Auth0.WpfApp\ProducvitityTools.Learn.Auth0.WpfApp.csproj", "{72A0ECDC-D4C6-4ED1-ACC3-5549F3A84A84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learn.Auth0.WpfApp", "ProductivityTools.Learn.Auth0.WpfApp\ProductivityTools.Learn.Auth0.WpfApp.csproj", "{72A0ECDC-D4C6-4ED1-ACC3-5549F3A84A84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
